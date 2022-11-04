@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-JSONLiveLink.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Goulandis\MetaHuman\MetaHuman\Intermediate\Build\Win64\MetaHumanEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Goulandis\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Intermediate\Build\Win64\UE4Editor\Development\JSONLiveLink\Module.JSONLiveLink.cpp.obj"
+"E:\Goulandis\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Intermediate\Build\Win64\UE4Editor\Development\JSONLiveLink\Module.JSONLiveLink.gen.cpp.obj"
+"E:\Goulandis\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Intermediate\Build\Win64\UE4Editor\Development\JSONLiveLink\Default.rc2.res"
+/OUT:"E:\Goulandis\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Intermediate\Build\Win64\UE4Editor\Development\JSONLiveLink\UE4Editor-JSONLiveLink.lib"

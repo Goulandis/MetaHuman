@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B7C5D99D-4ACD-02C1-28B4-2C83188A9F01}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MetaHuman",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
