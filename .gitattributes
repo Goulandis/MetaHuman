@@ -1,0 +1,5 @@
+MetaHuman/Content/MetaHumans/Hana/Face/Hana_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+MetaHuman/Content/MetaHumans/Common/Face/Face_Archetype.uasset filter=lfs diff=lfs merge=lfs -text
+MetaHuman/Content/MetaHumans/Common/Models/FaceTexture-8k/chr_0001/head_wm1_normal_map.uasset filter=lfs diff=lfs merge=lfs -text
+MetaHuman/Content/MetaHumans/Common/Models/FaceTexture-8k/chr_0001/head_wm2_normal_map.uasset filter=lfs diff=lfs merge=lfs -text
+MetaHuman/Content/MetaHumans/Common/Models/FaceTexture-8k/chr_0001/head_wm3_normal_map.uasset filter=lfs diff=lfs merge=lfs -text
