@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I E:\Goulandis\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Source\JSONLiveLink\Private
+/I D:\Git\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Source\JSONLiveLink\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -235,9 +235,9 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\JsonUtilities
 /I Runtime\JsonUtilities\Public
 /I Runtime\Networking\Public
-/I E:\Goulandis\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Intermediate\Build\Win64\UE4Editor\Inc\JSONLiveLink
-/I E:\Goulandis\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Source
-/I E:\Goulandis\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Source\JSONLiveLink\Public
+/I D:\Git\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Intermediate\Build\Win64\UE4Editor\Inc\JSONLiveLink
+/I D:\Git\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Source
+/I D:\Git\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Source\JSONLiveLink\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\LiveLinkInterface
 /I Runtime\LiveLinkInterface\Public
 /I ThirdParty\PhysX3\PxShared\include
@@ -265,16 +265,16 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"E:\Goulandis\MetaHuman\MetaHuman\Intermediate\Build\Win64\MetaHumanEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"E:\Goulandis\MetaHuman\MetaHuman\Intermediate\Build\Win64\MetaHumanEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"E:\Goulandis\MetaHuman\MetaHuman\Intermediate\Build\Win64\MetaHumanEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"E:\Goulandis\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Intermediate\Build\Win64\UE4Editor\Development\JSONLiveLink\Module.JSONLiveLink.cpp"
-/FI"E:\Goulandis\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Intermediate\Build\Win64\UE4Editor\Development\JSONLiveLink\Definitions.JSONLiveLink.h"
-/Fo"E:\Goulandis\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Intermediate\Build\Win64\UE4Editor\Development\JSONLiveLink\Module.JSONLiveLink.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"D:\Git\MetaHuman\MetaHuman\Intermediate\Build\Win64\MetaHumanEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\Git\MetaHuman\MetaHuman\Intermediate\Build\Win64\MetaHumanEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\Git\MetaHuman\MetaHuman\Intermediate\Build\Win64\MetaHumanEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\Git\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Intermediate\Build\Win64\UE4Editor\Development\JSONLiveLink\Module.JSONLiveLink.cpp"
+/FI"D:\Git\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Intermediate\Build\Win64\UE4Editor\Development\JSONLiveLink\Definitions.JSONLiveLink.h"
+/Fo"D:\Git\MetaHuman\MetaHuman\Plugins\JSONLiveLink\Intermediate\Build\Win64\UE4Editor\Development\JSONLiveLink\Module.JSONLiveLink.cpp.obj"
 /TP
 /GR-
 /W4
