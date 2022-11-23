@@ -3,9 +3,9 @@
 	{
 		"Module.JSONLiveLink.cpp.obj": [
 			"JSONLiveLink.cpp.obj",
-			"JSONLiveLinkSource.cpp.obj",
 			"JSONLiveLinkSourceFactory.cpp.obj",
-			"SJSONLiveLinkSourceFactory.cpp.obj"
+			"SJSONLiveLinkSourceFactory.cpp.obj",
+			"JSONLiveLinkSource.cpp.obj"
 		],
 		"Module.JSONLiveLink.gen.cpp.obj": [
 			"JSONLiveLink.init.gen.cpp.obj",

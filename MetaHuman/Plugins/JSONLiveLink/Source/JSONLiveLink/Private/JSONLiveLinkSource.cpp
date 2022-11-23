@@ -88,6 +88,7 @@ void FJSONLiveLinkSource::ReceiveClient(ILiveLinkClient* InClient, FGuid InSourc
 {
 	Client = InClient;
 	SourceGuid = InSourceGuid;
+	UE_LOG(LogTemp, Log, TEXT("Recived a client"));
 }
 
 
@@ -138,6 +139,7 @@ uint32 FJSONLiveLinkSource::Run()
 				{
 					if (Read > 0)
 					{
+						UE_LOG(LogTemp, Log, TEXT("Recving"));
 						TSharedPtr<TArray<uint8>, ESPMode::ThreadSafe> ReceivedData = MakeShareable(new TArray<uint8>());
 						ReceivedData->SetNumUninitialized(Read);
 						memcpy(ReceivedData->GetData(), RecvBuffer.GetData(), Read);
